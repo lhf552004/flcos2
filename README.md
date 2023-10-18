@@ -2,6 +2,6 @@
 
 https://lhf552004.github.io/flcos2
 
-# flocs
+# flcos
 
 https://flcos.github.io/
